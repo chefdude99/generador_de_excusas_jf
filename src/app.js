@@ -1,3 +1,5 @@
+import "./style.css";
+
 window.onload = function() {
   let who = ["Dalila", "Akira", "Turron", "Liza"];
   let action = [" se comió", " se orinó", " dañó", " rompió"];
